@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>我的个人博客</title>
+    <link>https://telobe.blog.io/</link>
+    <description>Recent content on 我的个人博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 29 Sep 2019 20:15:53 +0800</lastBuildDate>
+    
+	<atom:link href="https://telobe.blog.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>黄健健的测试blog</title>
+      <link>https://telobe.blog.io/post/test/</link>
+      <pubDate>Sun, 29 Sep 2019 20:15:53 +0800</pubDate>
+      
+      <guid>https://telobe.blog.io/post/test/</guid>
+      <description>在git创建项目时出现， 是因为在创建git文件夹的时候信息不完善导致的 下图是正确 在git创建项目时出现， 是因为在创建git文件夹的时候信息不完善导致的 下图是正确 1.git init 2.git config user.name &amp;ldquo;someone&amp;rdquo; 3.git config user.email &amp;ldquo;someone@someplace.com&amp;rdquo; 4.git add * 5.git commit -m &amp;ldquo;some init msg&amp;rdquo; *** Please tell me who you are.
+Run
+ git config &amp;ndash;global user.email &amp;ldquo;you@example.com&amp;rdquo; git config &amp;ndash;global user.name &amp;ldquo;Your Name&amp;rdquo;
+to set your account&amp;rsquo;s default identity. Omit &amp;ndash;global to set the identity only in this repository.
+fatal: unable to auto-detect email address (got &amp;lsquo;Administrator@MS-201610130300.(none)&amp;rsquo;)
+所以解决方法是当出现这个上述提示后 接着补充 你在命令行中执行 git config &amp;ndash;global user.</description>
+    </item>
+    
+  </channel>
+</rss>
